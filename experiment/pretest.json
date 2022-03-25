@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "High frequency on aircraft alternators is selected in order to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "free the systems from external disturbance",
+        "b": "compensate for high speeds",
+        "c": "compensate for high altitudes",
+        "d": "reduce the bulk"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+     
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "If the input to the prime mover of an alternator is kept constant but the excitation is changed then the",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "power factor of load remains constant",
+        "b": "reactive component of the output is changed",
+        "c": "power factor of load remains constant",
+        "d": "active component of the output is changed"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The advantage of salient poles in an alternator is",
+      "answers": {
+        "a": "reduce noise",
+        "b": "reduced windage loss",
+        "c": "adoptability to low and medium speed operation",
+        "d": "reduce bearing loads and noise"
       },
+     
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A three phase alternator has a phase sequence of RYB for its three output voltages, for clockwise rotation. Now if the alternator is rotated anticlockwise, the phase sequence will be",
+      "answers": {
+        "a": "RYB",
+        "b": "BYR",
+        "c": "RBY",
+        "d": "none of the above"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In order to reduce the harmonics in the emf generated in an alternator",
+      "answers": {
+        "a": "slots are skewed",
+        "b": "salient pole tips are chamfered",
+        "c": "winding is well distributed",
+        "d": "all of the above"
+      },
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
