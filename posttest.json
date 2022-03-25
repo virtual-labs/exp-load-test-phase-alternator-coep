@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Synchronizing torque comes into operation under all of the following cases EXCEPT",
+      "answers": {
+        "a": "phase difference between two voltages",
+        "b": "frequency difference between two voltages",
+        "c": "voltage difference between two voltages",
+        "d": "reduction in exciting current in one of the alternators"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The armature reaction of an alternator influences",
+      "answers": {
+        "a": "windage losses",
+        "b": "operting speed",
+        "c": "generated voltage per phase",
+        "d": "waveform of voltage generated"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For parallel operation, alternators must have",
+      "answers": {
+        "a": "same voltage rating",
+        "b": "same KVA rating",
+        "c": "same speed",
+        "d": "none of the above"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A synchronous generator is operating with excitation adjusted for unity power factor current at constant load. When on increasing the excitation the power factor",
+      "answers": {
+        "a": "will become zero",
+        "b": "will lead",
+        "c": "will lag",
+        "d": "none of the above"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The back emf set up in the stator of a synchronous motor will depend on",
+      "answers": {
+        "a": "rotor speed only",
+        "b": "rotor excitation only",
+        "c": "rotor excitation and rotor speed",
+        "d": "coupling angle, rotor speed and excitation"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
